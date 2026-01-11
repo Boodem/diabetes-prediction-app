@@ -17,6 +17,7 @@ Voici à quoi ressemble l'interface :
 ![Exemple de prédiction : Patient Malade](img/patientMalade.png)
 
 ![Exemple de prédiction : Patient Sain](img/patientSain.png)
+
 > L'application permet une saisie intuitive des paramètres et fournit une réponse instantanée avec un indice de confiance (%).
 
 ## ⚙️ Architecture Technique
@@ -85,3 +86,5 @@ Si vous souhaitez modifier le modèle :
     ├── analyse_diabete.ipynb  # Code source de l'entraînement
     └── diabetes.csv           # Données brutes
 ```
+
+>*Projet réalisé dans le cadre de mon apprentissage en Data Science.*
